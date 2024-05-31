@@ -1,2 +1,2 @@
 # Princess-Jones
-CIST 1510 lab #1 
+CIST 1510 lab  
